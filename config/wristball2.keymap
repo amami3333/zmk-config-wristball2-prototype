@@ -106,8 +106,8 @@
 
         default_layer {
             bindings = <
-&lt 5 LG(Z)    &mkp MB2       &mkp MB1
-&mo_mkp 7 MB3  &pmw_rotation  &mo 6
+&lt 5 LG(LEFT_BRACKET)  &mkp MB2       &mkp MB1
+&mo_mkp 7 MB3           &pmw_rotation  &mo 6
             >;
         };
 

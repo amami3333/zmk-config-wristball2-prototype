@@ -64,7 +64,7 @@
         };
 
         drag {
-            bindings = <&kp LS(LG(D))>;
+            bindings = <&kp LS(LC(D))>;
             key-positions = <1 2>;
         };
     };

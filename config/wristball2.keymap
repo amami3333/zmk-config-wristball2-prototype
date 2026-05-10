@@ -142,7 +142,7 @@
         SCROLL {
             bindings = <
 &trans     &trans  &kp LG(T)
-&kp LG(Z)  &trans  &trans
+&kp LG(W)  &trans  &trans
             >;
         };
 
